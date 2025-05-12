@@ -1,2 +1,23 @@
+# Entornos virtuales
 venv/
-venv/
+env/
+ENV/
+
+# Archivos de Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+*.egg
+
+# Archivos temporales
+temp/
+*.tmp
+.DS_Store
+Thumbs.db
+
+# Archivos generados
+*.html
+*.png

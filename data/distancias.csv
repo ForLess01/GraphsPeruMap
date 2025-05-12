@@ -1,233 +1,97 @@
 origen,destino,distancia_km
-Callao,Lima,15
-Callao,Ica,303
-Junín,Lima,326
-Junín,Pasco,131
-Junín,Huancavelica,221
-Loreto,Amazonas,518
-Loreto,San Martín,633
-Loreto,Ucayali,435
-Amazonas,Ancash,1036
-Amazonas,Apurimac,1094
-Amazonas,Cajamarca,1404
-Amazonas,Pasco,1163
-Amazonas,Cusco,1407
-Amazonas,Huancavelica,2324
-Amazonas,Huánuco,1676
-Amazonas,Ica,1536
-Amazonas,La Libertad,339
-Amazonas,Lima,926
-Amazonas,Madre de Dios,147
-Amazonas,Ucayali,360
-Amazonas,Puno,349
-Amazonas,Tacna,709
-Ancash,Apurimac,399
-Ancash,Arequipa,1026
-Ancash,Cajamarca,1768
-Ancash,Pasco,1209
-Ancash,Cusco,198
-Ancash,Huancavelica,2126
-Ancash,Huánuco,1677
-Ancash,Ica,1329
-Ancash,La Libertad,644
-Ancash,Lima,717
-Ancash,Madre de Dios,1317
-Ancash,Ucayali,1313
-Ancash,Puno,604
-Ancash,Tacna,641
-Ancash,Tumbes,907
-Apurimac,Arequipa,1162
-Apurimac,Cajamarca,2270
-Apurimac,Pasco,1888
-Apurimac,Cusco,1692
-Apurimac,Huancavelica,731
-Apurimac,Huánuco,587
-Apurimac,Ica,1501
-Apurimac,La Libertad,1468
-Apurimac,Lima,2166
-Arequipa,Cajamarca,1870
-Arequipa,Pasco,1311
+Puno,Cusco,389
+Puno,Puerto Maldonado,823
+Puno,Arequipa,326
+Puno,Moquegua,257
+Puno,Tacna,377
+Cusco,Puno,389
+Cusco,Arequipa,513
+Cusco,Abancay,198
+Cusco,Ayacucho,597
+Cusco,Puerto Maldonado,533
+Cusco,Huancayo,915
+Cusco,Pucallpa,1890
+Arequipa,Puno,326
 Arequipa,Cusco,513
-Arequipa,Huancavelica,2228
-Arequipa,Huánuco,1779
-Arequipa,Ica,1440
-Arequipa,La Libertad,1046
-Arequipa,Lima,1307
-Arequipa,Madre de Dios,1419
-Arequipa,Ucayali,1415
-Arequipa,Puno,706
-Arequipa,Tacna,1183
-Arequipa,Tumbes,1009
-Cajamarca,Pasco,510
-Cajamarca,Cusco,597
-Cajamarca,Huancavelica,1762
-Cajamarca,Huánuco,1313
-Cajamarca,Ica,974
-Cajamarca,La Libertad,245
-Cajamarca,Lima,318
-Cajamarca,Madre de Dios,678
-Cajamarca,Ucayali,949
-Cajamarca,Puno,388
-Cajamarca,Tacna,442
-Cajamarca,Tumbes,543
-Pasco,Cusco,1407
-Pasco,Huancavelica,1521
-Pasco,Huánuco,1072
-Pasco,Ica,733
-Pasco,La Libertad,402
-Pasco,Lima,252
-Pasco,Madre de Dios,108
-Pasco,Ucayali,457
-Pasco,Puno,605
-Pasco,Tacna,128
-Pasco,Tumbes,302
-Cusco,Huancavelica,2324
-Cusco,Huánuco,1876
-Cusco,Ica,1536
-Cusco,La Libertad,642
-Cusco,Lima,915
-Cusco,Madre de Dios,1515
-Cusco,Ucayali,1511
-Cusco,Puno,802
-Cusco,Tacna,1279
-Cusco,Tumbes,1105
-Huancavelica,Huánuco,449
-Huancavelica,Ica,788
-Huancavelica,La Libertad,1714
-Huancavelica,Lima,1517
-Huancavelica,Madre de Dios,1629
-Huancavelica,Ucayali,998
-Huancavelica,Puno,1522
-Huancavelica,Tacna,1393
-Huancavelica,Tumbes,1219
-Huánuco,Ica,339
-Huánuco,La Libertad,1265
-Huánuco,Lima,1068
-Huánuco,Madre de Dios,1180
-Huánuco,Ucayali,549
-Huánuco,Puno,1073
-Huánuco,Tacna,944
-Huánuco,Tumbes,770
-Ica,La Libertad,926
-Ica,Lima,729
-Ica,Madre de Dios,841
-Ica,Ucayali,210
-Ica,Puno,734
-Ica,Tacna,605
-Ica,Tumbes,431
-La Libertad,Lima,147
-La Libertad,Madre de Dios,507
-La Libertad,Ucayali,901
-La Libertad,Puno,340
-La Libertad,Tacna,271
-La Libertad,Tumbes,495
-Lima,Madre de Dios,360
-Lima,Ucayali,704
-Lima,Puno,601
-Lima,Tacna,124
-Lima,Tumbes,298
-Madre de Dios,Ucayali,349
-Madre de Dios,Puno,713
-Madre de Dios,Tacna,236
-Madre de Dios,Tumbes,410
-Ucayali,Puno,709
-Ucayali,Tacna,580
-Ucayali,Tumbes,406
-Puno,Tacna,477
-Puno,Tumbes,303
-Tacna,Tumbes,174
-Amazonas,Moquegua,1145
-Amazonas,Ayacucho,2508
-Amazonas,Piura,664
-Amazonas,San Martín,1766
-Amazonas,Lambayeque,2423
-Ancash,Moquegua,220
-Ancash,Ayacucho,2378
-Ancash,Piura,1990
-Ancash,San Martín,1794
-Ancash,Lambayeque,946
-Apurimac,Moquegua,1230
-Apurimac,Ayacucho,1906
-Apurimac,Piura,1524
-Apurimac,San Martín,1648
-Apurimac,Lambayeque,1130
-Arequipa,Moquegua,646
-Arequipa,Ayacucho,2468
-Arequipa,Piura,2086
-Arequipa,San Martín,1690
-Arequipa,Lambayeque,533
-Cajamarca,Moquegua,2206
-Cajamarca,Ayacucho,571
+Arequipa,Moquegua,220
+Arequipa,Abancay,1026
+Arequipa,Ica,706
+Arequipa,Ayacucho,1094
+Moquegua,Arequipa,220
+Moquegua,Puno,257
+Moquegua,Tacna,158
+Tacna,Moquegua,158
+Tacna,Puno,377
+Puerto Maldonado,Cusco,533
+Puerto Maldonado,Puno,823
+Puerto Maldonado,Pucallpa,2423
+Abancay,Cusco,198
+Abancay,Arequipa,1026
+Abancay,Ayacucho,399
+Ayacucho,Abancay,399
+Ayacucho,Cusco,597
+Ayacucho,Arequipa,1094
+Ayacucho,Huancavelica,245
+Ayacucho,Ica,388
+Ayacucho,Huancayo,318
+Ica,Ayacucho,388
+Ica,Huancavelica,340
+Ica,Arequipa,706
+Ica,Lima,303
+Huancavelica,Ayacucho,245
+Huancavelica,Ica,340
+Huancavelica,Huancayo,147
+Huancavelica,Lima,495
+Huancayo,Cusco,915
+Huancayo,Ayacucho,318
+Huancayo,Huancavelica,147
+Huancayo,Lima,298
+Huancayo,Pucallpa,735
+Huancayo,Cerro de Pasco,252
+Pucallpa,Huanuco,375
+Pucallpa,Cerro de Pasco,483
+Pucallpa,Huancayo,735
+Pucallpa,Cusco,1890
+Pucallpa,Puerto Maldonado,2423
+Cerro de Pasco,Huanuco,108
+Cerro de Pasco,Lima,302
+Cerro de Pasco,Huancayo,252
+Cerro de Pasco,Pucallpa,483
+Huanuco,Cerro de Pasco,108
+Huanuco,Pucallpa,375
+Huanuco,Moyobamba,711
+Huanuco,Trujillo,971
+Huanuco,Huaraz,349
+Huanuco,Lima,410
+Lima,Ica,303
+Lima,Cerro de Pasco,302
+Lima,Huancayo,298
+Lima,Huaraz,406
+Lima,Huanuco,410
+Lima,Huancavelica,495
+Huaraz,Lima,406
+Huaraz,Huanuco,349
+Huaraz,Trujillo,340
+Moyobamba,Chachapoyas,250
+Moyobamba,Trujillo,802
+Moyobamba,Huanuco,711
+Trujillo,Chiclayo,209
+Trujillo,Cajamarca,300
+Trujillo,Chachapoyas,658
+Trujillo,Moyobamba,802
+Trujillo,Huanuco,971
+Trujillo,Huaraz,340
+Chachapoyas,Cajamarca,335
+Chachapoyas,Trujillo,658
+Chachapoyas,Moyobamba,250
 Cajamarca,Piura,476
-Cajamarca,San Martín,1456
-Cajamarca,Lambayeque,2499
-Pasco,Moquegua,1447
-Pasco,Ayacucho,819
-Pasco,Piura,1283
-Pasco,San Martín,483
-Pasco,Lambayeque,1940
-Cusco,Moquegua,2364
-Cusco,Ayacucho,250
-Cusco,Piura,520
-Cusco,San Martín,2004
-Cusco,Lambayeque,2857
-Huancavelica,Moquegua,1915
-Huancavelica,Ayacucho,593
-Huancavelica,Piura,211
-Huancavelica,San Martín,1555
-Huancavelica,Lambayeque,2408
-Huánuco,Moquegua,676
-Huánuco,Ayacucho,932
-Huánuco,Piura,650
-Huánuco,San Martín,916
-Huánuco,Lambayeque,2069
-Ica,Moquegua,1182
-Ica,Ayacucho,1858
-Ica,Piura,1476
-Ica,San Martín,1280
-Ica,Lambayeque,1375
-La Libertad,Moquegua,1443
-La Libertad,Ayacucho,1071
-La Libertad,Piura,1279
-La Libertad,San Martín,735
-La Libertad,Lambayeque,1448
-Lima,Moquegua,1551
-Lima,Ayacucho,711
-Lima,Piura,1391
-Lima,San Martín,375
-Lima,Lambayeque,2048
-Madre de Dios,Moquegua,1660
-Madre de Dios,Ayacucho,1142
-Madre de Dios,Piura,760
-Madre de Dios,San Martín,724
-Madre de Dios,Lambayeque,2044
-Ucayali,Moquegua,1666
-Ucayali,Ayacucho,1537
-Ucayali,Piura,1155
-Ucayali,San Martín,611
-Ucayali,Lambayeque,1335
-Puno,Moquegua,842
-Puno,Ayacucho,1363
-Puno,Piura,981
-Puno,San Martín,765
-Puno,Lambayeque,1812
-Tacna,Moquegua,1319
-Tacna,Ayacucho,2508
-Tacna,Piura,2126
-Tacna,San Martín,1930
-Tacna,Lambayeque,1638
-Tumbes,Moquegua,1637
-Tumbes,Ayacucho,2698
-Tumbes,Piura,2316
-Tumbes,San Martín,2120
-Tumbes,Lambayeque,1654
-Moquegua,Ayacucho,2270
-Moquegua,Piura,1888
-Moquegua,San Martín,1492
-Moquegua,Lambayeque,335
-Ayacucho,Piura,664
-Ayacucho,San Martín,339
-Ayacucho,Lambayeque,2423
-Piura,San Martín,823
-Piura,Lambayeque,377
-San Martín,Lambayeque,1696
+Cajamarca,Chiclayo,265
+Cajamarca,Trujillo,300
+Cajamarca,Chachapoyas,335
+Chiclayo,Piura,211
+Chiclayo,Cajamarca,265
+Chiclayo,Trujillo,300
+Piura,Tumbes,278
+Piura,Chiclayo,211
+Piura,Cajamarca,476
+Tumbes,Piura,278
